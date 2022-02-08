@@ -10,6 +10,8 @@ Showcase of what I've done during my internship with Adept Ttp Pte Ltd / BrightS
 
 # Filtering and Searching listings
 
+Users can filter the courses via using the category buttons and/or using the search bar.
+
 ![filter and search](https://user-images.githubusercontent.com/69711670/152919097-332484af-3c5c-4781-a246-ab9cae12b662.gif)
 
 
@@ -26,10 +28,13 @@ Showcase of what I've done during my internship with Adept Ttp Pte Ltd / BrightS
 
 # Liking / Adding a course to wishlist
 
+Users can add a course to their wish list by tapping on the like icon. 
+
 ![like](https://user-images.githubusercontent.com/69711670/152919197-d228beec-ddd9-492c-a3c0-0ce2ff275252.gif)
 
 
 # Booking a course
+
 ![book now](https://user-images.githubusercontent.com/69711670/152919214-499d5cd5-ad8d-4d05-8a29-d19e7b05cc1b.gif)
 
 
