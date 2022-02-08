@@ -3,6 +3,8 @@ Showcase of what I've done during my internship with Adept Ttp Pte Ltd / BrightS
 <p> The development of the mobile frontend is done entirely on my own as I am the only mobile developer at that time. </p>
 <p>The mobile application is done using the framework flutter, using the programming language Dart to allow it be on different mobile operating systems. Eg. IOS, Android. </p>
 
+The application is still under development as I am still doing my internship. Will update as time pass.
+
 The following gifs were recorded in <strong>debug mode</strong>. The application is <strong>significantly faster</strong> in release mode.
 
 # Launching of the application and viewing of listings
