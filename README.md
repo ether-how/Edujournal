@@ -9,6 +9,7 @@ The following gifs were recorded in <strong>debug mode</strong>. The application
 
 # Launching of the application and viewing of listings
 <p>The user interfaces of the application is developed to be responsive to fit different mobile screen sizes. Eg. Iphone, IPad mini, IPad, IPad Pro. </p>
+
 ![launching-listview](https://user-images.githubusercontent.com/69711670/152919003-a512f3aa-728d-4208-96f0-a9f615190a72.gif)
 
 
