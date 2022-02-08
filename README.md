@@ -39,10 +39,13 @@ Users can add a course to their wish list by tapping on the like icon.
 
 
 # Calendar
+
+Users can check on their upcoming courses via the built-in calendar.
+
 ![calendar](https://user-images.githubusercontent.com/69711670/152919228-c4551eed-1cd7-4a10-ab04-2536d0185ece.gif)
 
 
-#QR Code login for web
+# QR Code login for web
 
 ![qr](https://user-images.githubusercontent.com/69711670/152919249-a80e7651-c934-4ac7-8acb-728e64ecd4ef.gif)
 
