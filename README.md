@@ -3,6 +3,8 @@ Showcase of what I've done during my internship with Adept Ttp Pte Ltd / BrightS
 <p> The development of the mobile frontend is done entirely on my own as I am the only mobile developer at that time. </p>
 <p>The mobile application is done using the framework flutter, using the programming language Dart to allow it be on different mobile operating systems. Eg. IOS, Android. </p>
 
+The following gifs were recorded in debug mode. The application is significantly faster in release mode.
+
 # Launching of the application and viewing of listings
 <p>The user interfaces of the application is developed to be responsive to fit different mobile screen sizes. Eg. Iphone, IPad mini, IPad, IPad Pro. </p>
 ![launching-listview](https://user-images.githubusercontent.com/69711670/152919003-a512f3aa-728d-4208-96f0-a9f615190a72.gif)
