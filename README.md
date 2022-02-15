@@ -32,6 +32,10 @@ Users can filter the courses via using the category buttons and/or using the sea
 
 # Login
 
+Unable to show login as my account details will be shown. 
+
+Password is hidden but each character is still shown while typing. 
+
 <!-- ![login](https://user-images.githubusercontent.com/69711670/152919134-96c61f16-519e-48da-9bf2-51f5fb356ab9.gif) -->
 
 
@@ -55,6 +59,8 @@ Users can check on their upcoming courses via the built-in calendar.
 
 
 # QR Code login for web
+
+Unable to record scanning of QR due to using a simulator to record the gif. 
 
 ![qr](https://user-images.githubusercontent.com/69711670/152919249-a80e7651-c934-4ac7-8acb-728e64ecd4ef.gif)
 
