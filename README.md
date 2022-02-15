@@ -5,6 +5,7 @@ Internship period 10th Jan 2022 to 28th May 2022. (Currently pursuing)
 
 <p> The development of the mobile frontend is done entirely on my own as I am the only mobile developer at that time. </p>
 <p>The mobile application is done using the framework flutter, using the programming language Dart to allow it be on different mobile operating systems. Eg. IOS, Android. </p>
+<p> All data shown are retrieved from RESTful API. </p>
 
 The application is still under development as I am still doing my internship. Will update as time pass.
 
