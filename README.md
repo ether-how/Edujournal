@@ -1,5 +1,8 @@
 # Edujournal
 Showcase of what I've done during my internship with Adept Ttp Pte Ltd / BrightSword Pte Ltd, with their start-up project Edujournal.
+
+Internship period 10th Jan 2022 to 28th May 2022. (Currently pursuing)
+
 <p> The development of the mobile frontend is done entirely on my own as I am the only mobile developer at that time. </p>
 <p>The mobile application is done using the framework flutter, using the programming language Dart to allow it be on different mobile operating systems. Eg. IOS, Android. </p>
 
