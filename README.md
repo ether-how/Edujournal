@@ -11,10 +11,14 @@ The application is still under development as I am still doing my internship. Wi
 
 The following gifs were recorded in <strong>debug mode</strong>. The application is <strong>significantly faster</strong> in release mode.
 
+Designs may differ due to changes in the app but I did not record a new gif for older gifs.
+
 # Launching of the application and viewing of listings
 <p>The user interfaces of the application is developed to be responsive to fit different mobile screen sizes. Eg. Iphone, IPad mini, IPad, IPad Pro. </p>
 
 ![launching-listview](https://user-images.githubusercontent.com/69711670/152919003-a512f3aa-728d-4208-96f0-a9f615190a72.gif)
+![tablet_launch_view](https://user-images.githubusercontent.com/69711670/154400823-eeca4671-ad75-4fcc-8c16-60d386b8f8d8.gif)
+
 
 
 # Filtering and Searching listings
@@ -22,11 +26,13 @@ The following gifs were recorded in <strong>debug mode</strong>. The application
 Users can filter the courses via using the category buttons and/or using the search bar.
 
 ![filter and search](https://user-images.githubusercontent.com/69711670/152919097-332484af-3c5c-4781-a246-ab9cae12b662.gif)
+![tablet_filtering](https://user-images.githubusercontent.com/69711670/154400854-7332c8b2-e65f-4f59-a884-6cc61857e27e.gif)
 
 
 # Viewing courses 
 
 ![courseview](https://user-images.githubusercontent.com/69711670/152919116-a9b2c137-5a53-4753-97e0-aaf8bb1eda55.gif)
+![tablet_courseview](https://user-images.githubusercontent.com/69711670/154400860-8b0df25b-78ac-4fe1-a029-8cbbedee4682.gif)
 
 
 
