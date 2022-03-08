@@ -13,6 +13,10 @@ The following gifs were recorded in <strong>debug mode</strong>. The application
 
 Designs may differ due to changes in the app but I did not record a new gif for older gifs.
 
+PayPal V2 Api integrated onto the application to allow payments to be made when booking courses.
+
+Currently playing with Microsoft Azure DevOps to prepare for releasing the application onto playstore/appstore.
+
 # Launching of the application and viewing of listings
 <p>The user interfaces of the application is developed to be responsive to fit different mobile screen sizes. Eg. Iphone, IPad mini, IPad, IPad Pro. </p>
 
